@@ -3,7 +3,7 @@
 A Tribute app for the free code camp project.
 
 The Objective: 
- - Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
+ - Build a CodePen.io app that is functionally stable.
  
 The UX and Functional Requirements:
  - Have a lucid view of a tribute page with an image and text.
